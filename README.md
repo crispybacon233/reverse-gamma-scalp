@@ -27,3 +27,5 @@ closes all position three minutes before market close.
 <br></br>
 
 ![Untitled](https://user-images.githubusercontent.com/89396780/214153253-c1586e40-fa63-494f-8f04-3f04aecc38d5.png)
+
+Profit is made when the stock does not fluctuate too much during the day. Time decay is working to your advantage. But if the stock does make large moves, the bot will automatically buy/sell shares to maintain the target net delta. This will minimize losses. 
